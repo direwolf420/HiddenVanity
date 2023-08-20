@@ -156,12 +156,12 @@ Mods: {
 				}
 
 				HideOtherVanity: {
-					Tooltip: Toggle vanity on other players
+					Tooltip: Apply vanity toggles on other players
 					Label: Hide other player vanity
 				}
 
 				HideOwnVanity: {
-					Tooltip: Toggle vanity on own player
+					Tooltip: Apply vanity toggles on own player
 					Label: Hide own player vanity
 				}
 			}

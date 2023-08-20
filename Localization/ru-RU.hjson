@@ -2,167 +2,167 @@ Mods: {
 	HiddenVanity: {
 		Configs: {
 			Config: {
-				// DisplayName: Config
+				DisplayName: Настройки
 
 				HideRainbowCursor: {
-					// Tooltip: ""
-					// Label: Hide Rainbow Cursor
+					Tooltip: ""
+					Label: Скрыть Радужный курсор
 				}
 
 				HideAngelHalo: {
-					// Tooltip: ""
-					// Label: Hide Angel Halo
+					Tooltip: ""
+					Label: Скрыть Нимб ангела
 				}
 
 				HideUnicornHorn: {
-					// Tooltip: ""
-					// Label: Hide Fake Unicorn Horn
+					Tooltip: ""
+					Label: Скрыть Фальшивый рог единорога
 				}
 
 				HideFloatingTube: {
-					// Tooltip: ""
-					// Label: Hide Inner Tube
+					Tooltip: ""
+					Label: Скрыть Воздушную камеру
 				}
 
 				HideLeinforsHair: {
-					// Tooltip: ""
-					// Label: Hide Leinfors' Luxury Shampoo
+					Tooltip: ""
+					Label: Скрыть Модный шампунь Leinfors
 				}
 
 				HideYoraiz0rDarkness: {
-					// Tooltip: ""
-					// Label: Hide Yoraiz0r's Scowl
+					Tooltip: ""
+					Label: Скрыть Угрюмый вид Yoraiz0r
 				}
 
 				HideYoraiz0rEye: {
-					// Tooltip: ""
-					// Label: Hide Yoraiz0r's Spell
+					Tooltip: ""
+					Label: Скрыть Заклятие Yoraiz0r
 				}
 
 				Headers: {
-					// SpecialToggles: == Special Toggles ==
-					// SeparateToggles: == Separate Toggles ==
-					// ToggleAll: == Toggle All ==
+					SpecialToggles: == Особые переключатели ==
+					SeparateToggles: == Отдельные переключатели ==
+					ToggleAll: == Переключатели всего ==
 				}
 
 				HideStringColor: {
-					// Tooltip: ""
-					// Label: Hide Yoyo String Color
+					Tooltip: ""
+					Label: Скрыть цвет ниток для йо-йо
 				}
 
 				HideFaceFlower: {
-					// Tooltip: ""
-					// Label: Hide Face (Flower)
+					Tooltip: ""
+					Label: Скрыть лицо (Цветок)
 				}
 
 				HideFaceHead: {
-					// Tooltip: ""
-					// Label: Hide Face (Head)
+					Tooltip: ""
+					Label: Скрыть лицо (Голова)
 				}
 
 				HideFace: {
-					// Tooltip: ""
-					// Label: Hide Face
+					Tooltip: ""
+					Label: Скрыть лицо
 				}
 
 				HideBeard: {
-					// Tooltip: ""
-					// Label: Hide Beard
+					Tooltip: ""
+					Label: Скрыть бороду
 				}
 
 				HideTail: {
-					// Tooltip: ""
-					// Label: Hide Tail
+					Tooltip: ""
+					Label: Скрыть хвост
 				}
 
 				HideBackpack: {
-					// Tooltip: ""
-					// Label: Hide Backpack
+					Tooltip: ""
+					Label: Скрыть рюкзак
 				}
 
 				HideBack: {
-					// Tooltip: ""
-					// Label: Hide Back
+					Tooltip: ""
+					Label: Скрыть спину
 				}
 
 				HideFront: {
-					// Tooltip: ""
-					// Label: Hide Front
+					Tooltip: ""
+					Label: Скрыть перед
 				}
 
 				HideShoe: {
-					// Tooltip: ""
-					// Label: Hide Shoe
+					Tooltip: ""
+					Label: Скрыть ботинки
 				}
 
 				HideWaist: {
-					// Tooltip: ""
-					// Label: Hide Waist
+					Tooltip: ""
+					Label: Скрыть пояс
 				}
 
 				HideWings: {
-					// Tooltip: ""
-					// Label: Hide Wings
+					Tooltip: ""
+					Label: Скрыть крылья
 				}
 
 				HideShield: {
-					// Tooltip: ""
-					// Label: Hide Shield
+					Tooltip: ""
+					Label: Скрыть щит
 				}
 
 				HideNeck: {
-					// Tooltip: ""
-					// Label: Hide Neck
+					Tooltip: ""
+					Label: Скрыть шею
 				}
 
 				HideHandOff: {
-					// Tooltip: ""
-					// Label: Hide Back Hand
+					Tooltip: ""
+					Label: Скрыть заднюю руку
 				}
 
 				HideHandOn: {
-					// Tooltip: ""
-					// Label: Hide Main Hand
+					Tooltip: ""
+					Label: Скрыть главную руку
 				}
 
 				HideBalloonFront: {
-					// Tooltip: ""
-					// Label: Hide Balloon (Front)
+					Tooltip: ""
+					Label: Скрыть надувные шары (Перед)
 				}
 
 				HideBalloon: {
-					// Tooltip: ""
-					// Label: Hide Balloon
+					Tooltip: ""
+					Label: Скрыть надувные шары
 				}
 
 				HideLegs: {
-					// Tooltip: ""
-					// Label: Hide Leggings
+					Tooltip: ""
+					Label: Скрыть штаны
 				}
 
 				HideBody: {
-					// Tooltip: ""
-					// Label: Hide Chestplate
+					Tooltip: ""
+					Label: Скрыть нагрудник
 				}
 
 				HideHead: {
-					// Tooltip: ""
-					// Label: Hide Helmet
+					Tooltip: ""
+					Label: Скрыть шлем
 				}
 
 				HideAllEquips: {
-					// Tooltip: Toggle if all equips should be hidden (if on, takes precedence over the separate toggles)
-					// Label: Hide All Equips
+					Tooltip: Включить/Отключить видимость всей экипировки (главнее отдельных переключателей)
+					Label: Скрыть всю экипировку
 				}
 
 				HideOtherVanity: {
-					// Tooltip: Toggle vanity on other players
-					// Label: Hide other player vanity
+					Tooltip: Выбранные скрытые украшения не будут отображаться у других игроков
+					Label: Применить переключатели к другим игрокам
 				}
 
 				HideOwnVanity: {
-					// Tooltip: Toggle vanity on own player
-					// Label: Hide own player vanity
+					Tooltip: Выбранные скрытые украшения не будут отображаться на Вас
+					Label: Применить переключатели к себе
 				}
 			}
 		}
