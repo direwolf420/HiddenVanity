@@ -2,167 +2,167 @@ Mods: {
 	HiddenVanity: {
 		Configs: {
 			Config: {
-				// DisplayName: Config
+				// DisplayName: Configurazione
 
 				HideRainbowCursor: {
 					// Tooltip: ""
-					// Label: Hide {$ItemName.RainbowCursor}
+					// Label: Nascondi {$ItemName.RainbowCursor}
 				}
 
 				HideAngelHalo: {
 					// Tooltip: ""
-					// Label: Hide {$ItemName.AngelHalo}
+					// Label: Nascondi {$ItemName.AngelHalo}
 				}
 
 				HideUnicornHorn: {
 					// Tooltip: ""
-					// Label: Hide {$ItemName.UnicornHornHat}
+					// Label: Nascondi {$ItemName.UnicornHornHat}
 				}
 
 				HideFloatingTube: {
 					// Tooltip: ""
-					// Label: Hide {$ItemName.FloatingTube}
+					// Label: Nascondi {$ItemName.FloatingTube}
 				}
 
 				HideLeinforsHair: {
 					// Tooltip: ""
-					// Label: Hide {$ItemName.LeinforsAccessory}
+					// Label: Nascondi {$ItemName.LeinforsAccessory}
 				}
 
 				HideYoraiz0rDarkness: {
 					// Tooltip: ""
-					// Label: Hide {$ItemName.Yoraiz0rDarkness}
+					// Label: Nascondi {$ItemName.Yoraiz0rDarkness}
 				}
 
 				HideYoraiz0rEye: {
 					// Tooltip: ""
-					// Label: Hide {$ItemName.Yoraiz0rWings}
+					// Label: Nascondi {$ItemName.Yoraiz0rWings}
 				}
 
 				Headers: {
-					// SpecialToggles: == Special Toggles ==
-					// SeparateToggles: == Separate Toggles ==
-					// ToggleAll: == Toggle All ==
+					// SpecialToggles: == Funzioni speciali ==
+					// SeparateToggles: == Funzioni separate ==
+					// ToggleAll: == Attiva tutto ==
 				}
 
 				HideStringColor: {
 					// Tooltip: ""
-					// Label: Hide Yoyo String Color
+					// Label: Nascondi colore della corda dello Yoyo
 				}
 
 				HideFaceFlower: {
 					// Tooltip: ""
-					// Label: Hide Face (Flower)
+					// Label: Nascondi faccia (Fiore)
 				}
 
 				HideFaceHead: {
 					// Tooltip: ""
-					// Label: Hide Face (Head)
+					// Label: Nascondi faccia (Testa)
 				}
 
 				HideFace: {
 					// Tooltip: ""
-					// Label: Hide Face
+					// Label: Nascondi faccia
 				}
 
 				HideBeard: {
 					// Tooltip: ""
-					// Label: Hide Beard
+					// Label: Nascondi barba
 				}
 
 				HideTail: {
 					// Tooltip: ""
-					// Label: Hide Tail
+					// Label: Nascondi coda
 				}
 
 				HideBackpack: {
 					// Tooltip: ""
-					// Label: Hide Backpack
+					// Label: Nascondi zaino
 				}
 
 				HideBack: {
 					// Tooltip: ""
-					// Label: Hide Back
+					// Label: Nascondi dorso 
 				}
 
 				HideFront: {
 					// Tooltip: ""
-					// Label: Hide Front
+					// Label: Nascondi ventre
 				}
 
 				HideShoe: {
 					// Tooltip: ""
-					// Label: Hide Shoe
+					// Label: Nascondi scarpa
 				}
 
 				HideWaist: {
 					// Tooltip: ""
-					// Label: Hide Waist
+					// Label: Nascondi vita
 				}
 
 				HideWings: {
 					// Tooltip: ""
-					// Label: Hide Wings
+					// Label: Nascondi ali
 				}
 
 				HideShield: {
 					// Tooltip: ""
-					// Label: Hide Shield
+					// Label: Nascondi scudo
 				}
 
 				HideNeck: {
 					// Tooltip: ""
-					// Label: Hide Neck
+					// Label: Nascondi collo
 				}
 
 				HideHandOff: {
 					// Tooltip: ""
-					// Label: Hide Back Hand
+					// Label: Nascondi mano dorsale
 				}
 
 				HideHandOn: {
 					// Tooltip: ""
-					// Label: Hide Main Hand
+					// Label: Nascondi mano principale
 				}
 
 				HideBalloonFront: {
 					// Tooltip: ""
-					// Label: Hide Balloon (Front)
+					// Label: Nascondi palloncino (davanti)
 				}
 
 				HideBalloon: {
 					// Tooltip: ""
-					// Label: Hide Balloon
+					// Label: Nascondi palloncino
 				}
 
 				HideLegs: {
 					// Tooltip: ""
-					// Label: Hide Leggings
+					// Label: Nascondi gambali
 				}
 
 				HideBody: {
 					// Tooltip: ""
-					// Label: Hide Chestplate
+					// Label: Nascondi pettorale
 				}
 
 				HideHead: {
 					// Tooltip: ""
-					// Label: Hide Helmet
+					// Label: Nascondi elmetto
 				}
 
 				HideAllEquips: {
-					// Tooltip: Toggle if all equips should be hidden (if on, takes precedence over the separate toggles)
-					// Label: Hide All Equips
+					// Tooltip: Attiva/disattiva se tutti gli equipaggiamenti dovrebbero essere nascosti  (se attivo, ha la precedenza sulle altre funzioni)
+					// Label: Nascondi tutti gli equipaggiamenti
 				}
 
 				HideOtherVanity: {
-					// Tooltip: Apply vanity toggles on other players
-					// Label: Hide other player vanity
+					// Tooltip: Applica ad altri giocatori
+					// Label: Nasconde la comestica ad altri giocatori
 				}
 
 				HideOwnVanity: {
-					// Tooltip: Apply vanity toggles on own player
-					// Label: Hide own player vanity
+					// Tooltip: Applica al personaggio principale
+					// Label: Nasconde la cosmetica al personaggio principale
 				}
 			}
 		}
