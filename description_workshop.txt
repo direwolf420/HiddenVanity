@@ -6,3 +6,4 @@ If you want to add support for different languages, you are welcome to contribut
 List of localization contributors:
 * Russian: [b]GodHybrid[/b]
 * Italian: [b]Sea Noodle[/b]
+* German: [b]Lighty[/b]

@@ -1,5 +1,5 @@
 en-US, 38/38, 100%, missing 0
-de-DE, 0/38, 0%, missing 38
+de-DE, 38/38, 100%, missing 0
 it-IT, 38/38, 100%, missing 0
 fr-FR, 0/38, 0%, missing 38
 es-ES, 0/38, 0%, missing 38

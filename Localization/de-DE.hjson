@@ -42,12 +42,12 @@ Mods: {
 				Headers: {
 					SpecialToggles: == Spezielle Umschalter ==
 					SeparateToggles: == Einzelne Umschalter ==
-					ToggleAll: == Alles umschalten ==
+					ToggleAll: == Alles Umschalten ==
 				}
 
 				HideStringColor: {
 					Tooltip: ""
-					Label: Verstecke Jojo-Schnurfarbe
+					Label: Verstecke Jo-jo-Schnurfarbe
 				}
 
 				HideFaceFlower: {
@@ -82,7 +82,7 @@ Mods: {
 
 				HideBack: {
 					Tooltip: ""
-					Label: Verstecke Rücken
+					Label: Verstecke Hinterseite
 				}
 
 				HideFront: {
@@ -151,18 +151,18 @@ Mods: {
 				}
 
 				HideAllEquips: {
-					Tooltip: Schaltet aus, ob alle Ausrüstungen versteckt werden sollen (wenn aktiviert, hat Vorrang vor den einzelnen Umschaltern)
+					Tooltip: Schaltet um, ob alle Ausrüstungen versteckt werden sollen (wenn aktiviert, hat Vorrang vor den einzelnen Umschaltern)
 					Label: Verstecke alle Ausrüstungen
 				}
 
 				HideOtherVanity: {
 					Tooltip: Anwenden der Versteck-Umschalter auf andere Spieler
-					Label: Verstecke die Vanity anderer Spieler
+					Label: Verstecke die Mode-Gegenstände anderer Spieler
 				}
 
 				HideOwnVanity: {
 					Tooltip: Anwenden der Versteck-Umschalter auf den eigenen Spieler
-					Label: Verstecke eigene Vanity
+					Label: Verstecke eigene Mode-Gegenstände
 				}
 			}
 		}

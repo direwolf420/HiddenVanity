@@ -4,3 +4,4 @@ Localization: If you want to add support for different languages, you are welcom
 List of localization contributors:
 * Russian: GodHybrid
 * Italian: Sea Noodle
+* German: Lighty
