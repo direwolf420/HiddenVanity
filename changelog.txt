@@ -1,3 +1,3 @@
 v{ModVersion} has been published to {tMLBuildPurpose} tML v{tMLVersion}.
 
-* Added german localization. Thanks Lighty!
+* Restore accessory equip hiding functionality after a tml update broke it.
