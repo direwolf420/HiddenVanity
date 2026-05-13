@@ -410,15 +410,15 @@ namespace HiddenVanity
 
 			if (cfg.HideHead)
 			{
-				player.head = armor[0].headSlot;
+				player.head = player.hideVisibleAccessory[0] ? -1 : armor[0].headSlot;
 			}
 			if (cfg.HideBody)
 			{
-				player.body = armor[1].bodySlot;
+				player.body = player.hideVisibleAccessory[1] ? -1 : armor[1].bodySlot;
 			}
 			if (cfg.HideLegs)
 			{
-				player.legs = armor[2].legSlot;
+				player.legs = player.hideVisibleAccessory[2] ? -1 : armor[2].legSlot;
 			}
 		}
 	}
