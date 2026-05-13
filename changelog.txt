@@ -1,3 +1,3 @@
 v{ModVersion} has been published to {tMLBuildPurpose} tML v{tMLVersion}.
 
-* Restore accessory equip hiding functionality after a tml update broke it.
+* Fixed incompatibility with the "Armor Visibility Toggle" mod

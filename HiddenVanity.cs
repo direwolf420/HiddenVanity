@@ -402,9 +402,9 @@ namespace HiddenVanity
 			Item[] armor = player.armor;
 			if (cfg.HideAllEquips)
 			{
-				player.head = armor[0].headSlot;
-				player.body = armor[1].bodySlot;
-				player.legs = armor[2].legSlot;
+				player.head = player.hideVisibleAccessory[0] ? -1 : armor[0].headSlot;
+				player.body = player.hideVisibleAccessory[1] ? -1 : armor[1].bodySlot;
+				player.legs = player.hideVisibleAccessory[2] ? -1 : armor[2].legSlot;
 				return;
 			}
 
