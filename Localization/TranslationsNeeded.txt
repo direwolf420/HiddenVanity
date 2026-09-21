@@ -1,7 +1,7 @@
 en-US, 38/38, 100%, missing 0
 de-DE, 38/38, 100%, missing 0
 it-IT, 38/38, 100%, missing 0
-fr-FR, 0/38, 0%, missing 38
+fr-FR, 38/38, 100%, missing 0
 es-ES, 0/38, 0%, missing 38
 ru-RU, 38/38, 100%, missing 0
 zh-Hans, 0/38, 0%, missing 38

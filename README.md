@@ -15,3 +15,4 @@ List of localization contributors:
 * Russian: **GodHybrid**
 * Italian: **Sea Noodle**
 * German: **Lighty**
+* French: **Brutaliaa**
